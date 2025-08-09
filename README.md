@@ -72,10 +72,6 @@ uvicorn backend.main:app --reload --port 8000
 # From the project root
 streamlit run frontend/app.py
 ```
-🌐 Access the app at: **http://localhost:8501**  
-
----
-
 ## 🖥️ Features
 - ⚡ **Instant Sentiment Detection** — Positive, Negative, or Neutral in milliseconds  
 - 🔒 **Full Privacy** — No external API calls, no data leakage  
